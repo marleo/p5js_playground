@@ -1,4 +1,4 @@
-<h1>Content</h1>
+<h1 align="center">Content</h1>
 
 <h2>Setup</h2>
 <p>Template Files for new Sketches</p>
